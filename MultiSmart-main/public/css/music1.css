@@ -1,0 +1,76 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box; font-family: 'Maven Pro', sans-serif;
+   }
+   
+   h1{
+    text-align: center; font-size: 1.8rem;
+    color: #444; padding: 30px 0; 
+   }
+   
+   main{
+    width: 90%; height: 550px;
+    margin: auto; border: 1px solid black;
+    display: flex; justify-content: space-around;
+    align-items: center; flex-wrap: wrap;
+   }
+   
+   div{
+    width: 30%; height: 160px;
+    /*border: 1px solid red;*/
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px; cursor: pointer;
+   
+   }
+   
+   .a{
+     background-image: url('https://i.ytimg.com/vi/3gRQ5a2nyAw/maxresdefault.jpg');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+   }
+   
+   .b{
+   background-image: url('https://s3.ap-south-1.amazonaws.com/hansindia-bucket/h-upload/feeds/2019/05/25/178423-bekhayali.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   
+   .c{
+   background-image: url('https://a10.gaanacdn.com/images/song/25/22348025/crop_175x175_1516002143.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   
+   .d{
+   background-image: url('https://a10.gaanacdn.com/images/song/35/27033735/crop_175x175_1559892654.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   
+   .e{
+   background-image: url('https://c-sf.smule.com/sf/s78/arr/a5/c5/bfbfd68e-e588-42c7-bf33-dd51ef4caa89.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   .f{
+   background-image: url('http://www.lyricsoff.com/images/large-songs/jeena-jeena-16828.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   .g{
+   background-image: url('https://cdns-images.dzcdn.net/images/cover/fbf22ffaed5cc2c8b724f31dc834f05c/500x500.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   
+   .h{
+   background-image: url('https://img.timesnownews.com/story/1560757298-Tera_ban_jaunga.jpg?d=600x450');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
+   
+   .i{
+   background-image: url('https://i1.sndcdn.com/artworks-000079923687-1ka1f1-t500x500.jpg');
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   }
